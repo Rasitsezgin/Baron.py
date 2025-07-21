@@ -1,1 +1,1 @@
-Web Güvenlik Taraması ve Zafiyet Analiz Kodları
+🛡️✨ Web Güvenlik Taraması & Zafiyet Analiz Kodları 🔍💻
