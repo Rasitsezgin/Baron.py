@@ -1,1 +1,19 @@
-🛡️✨ Web Güvenlik Taraması & Zafiyet Analiz Kodları 🔍💻
+Features:
+- SQL Injection (Error, Boolean, Time, UNION, Stacked, NoSQL)
+- XSS (Reflected, Stored, DOM, Mutation)
+- LFI/RFI (Directory Traversal, Path Manipulation)
+- Command Injection (OS, Blind)
+- XXE (XML External Entity)
+- SSRF (Server-Side Request Forgery)
+- CSRF Detection
+- File Upload Vulnerabilities
+- Authentication Bypass
+- Session Fixation
+- Clickjacking
+- Directory Bruteforce
+- CMS Detection (WordPress, Joomla, Drupal)
+- WAF Detection & Bypass
+- SSL/TLS Analysis
+- Multi-threaded Scanning
+- Smart Payload Engine
+- Advanced Response Analysis
